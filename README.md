@@ -1,9 +1,24 @@
 ### Hi there 👋
 
+⚡ Favorite
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Python&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Python&logoColor=white"/></a>
 
+📫 DB
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PostGreSQL-#169E1?style=flat-square&logo=Python&logoColor=white"/></a>
 
+💬 Tool
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Python&logoColor=white"/></a>
+
+🌱Study
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Python&logoColor=white"/></a>
 
 <!--
 **moninkim/moninkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
